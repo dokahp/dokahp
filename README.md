@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pet project to find housing for rent for a long time<br>👯 I’m looking for a job as Front-End Angular Developer<br>📫 How to reach me: vitali.dreko@gmail.com<br>🌱 I’m currently learning Nextjs<br>⚡ Fun fact - I have a bachelor's degree, but all the knowledge that I have I got in the process of self-study
+🔭 I’m currently working on pet project to find housing for rent for a long time<br>👯 I’m looking for a job as Front-End React Developer<br>📫 How to reach me: vitali.dreko@gmail.com<br>🌱 I’m currently learning Nextjs<br>⚡ Fun fact - I have a bachelor's degree, but all the knowledge that I have I got in the process of self-study
 
 
 ## 🌐 Socials:
