@@ -14,7 +14,8 @@
 2.  Rolling Scopes School Angular Certification - https://app.rs.school/certificate/rradjz8y  
 3.  Rolling Scopes School Javascript, TypeScript, Webpack Certification - https://app.rs.school/certificate/j0kav78g
 4.  Rolling Scopes School Javascript Basics - https://app.rs.school/certificate/dpka0j95
-5.  Stepik Интерактивный тренажер по SQL - https://stepik.org/cert/2161549
+5.  Stepik Введение в базы данных - https://stepik.org/cert/2164428
+6.  Stepik Интерактивный тренажер по SQL - https://stepik.org/cert/2161549
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dokahp&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dokahp&theme=vue&hide_border=false)<br/>
